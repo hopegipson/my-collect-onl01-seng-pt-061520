@@ -12,5 +12,5 @@ def my_collect (array)
   newcollection
 end
 binding.pry
-#hello(["ruby", "javascript", "python"]) { |lang| lang.upcase }
+#my_collect(["ruby", "javascript", "python"]) { |lang| lang.upcase }
 
